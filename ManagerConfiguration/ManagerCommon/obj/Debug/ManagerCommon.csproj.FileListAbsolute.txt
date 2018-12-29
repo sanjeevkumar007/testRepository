@@ -1,0 +1,5 @@
+F:\Vs2015-Projects\Advance Tutorial Demo\RealApp\ManagerConfiguration\ManagerCommon\bin\Debug\ManagerCommon.dll
+F:\Vs2015-Projects\Advance Tutorial Demo\RealApp\ManagerConfiguration\ManagerCommon\bin\Debug\ManagerCommon.pdb
+F:\Vs2015-Projects\Advance Tutorial Demo\RealApp\ManagerConfiguration\ManagerCommon\obj\Debug\ManagerCommon.dll
+F:\Vs2015-Projects\Advance Tutorial Demo\RealApp\ManagerConfiguration\ManagerCommon\obj\Debug\ManagerCommon.pdb
+F:\Vs2015-Projects\Advance Tutorial Demo\RealApp\ManagerConfiguration\ManagerCommon\obj\Debug\ManagerCommon.csprojResolveAssemblyReference.cache

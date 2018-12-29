@@ -1,0 +1,9 @@
+F:\Vs2015-Projects\Advance Tutorial Demo\RealApp\ManagerConfiguration\ConnectSQLServer\obj\Debug\ConnectSQLServer.SQLServerConnect.resources
+F:\Vs2015-Projects\Advance Tutorial Demo\RealApp\ManagerConfiguration\ConnectSQLServer\obj\Debug\ConnectSQLServer.csproj.GenerateResource.Cache
+F:\Vs2015-Projects\Advance Tutorial Demo\RealApp\ManagerConfiguration\ConnectSQLServer\bin\Debug\ConnectSQLServer.dll
+F:\Vs2015-Projects\Advance Tutorial Demo\RealApp\ManagerConfiguration\ConnectSQLServer\bin\Debug\ConnectSQLServer.pdb
+F:\Vs2015-Projects\Advance Tutorial Demo\RealApp\ManagerConfiguration\ConnectSQLServer\bin\Debug\ConfigPlugings.dll
+F:\Vs2015-Projects\Advance Tutorial Demo\RealApp\ManagerConfiguration\ConnectSQLServer\bin\Debug\ManagerCommon.dll
+F:\Vs2015-Projects\Advance Tutorial Demo\RealApp\ManagerConfiguration\ConnectSQLServer\obj\Debug\ConnectSQLServer.dll
+F:\Vs2015-Projects\Advance Tutorial Demo\RealApp\ManagerConfiguration\ConnectSQLServer\obj\Debug\ConnectSQLServer.pdb
+F:\Vs2015-Projects\Advance Tutorial Demo\RealApp\ManagerConfiguration\ConnectSQLServer\obj\Debug\ConnectSQLServer.csprojResolveAssemblyReference.cache

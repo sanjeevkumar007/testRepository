@@ -1,0 +1,11 @@
+F:\Vs2015-Projects\Advance Tutorial Demo\RealApp\ManagerConfiguration\ManagerConfiguration\bin\Debug\ManagerConfiguration.exe.config
+F:\Vs2015-Projects\Advance Tutorial Demo\RealApp\ManagerConfiguration\ManagerConfiguration\bin\Debug\ManagerConfiguration.exe
+F:\Vs2015-Projects\Advance Tutorial Demo\RealApp\ManagerConfiguration\ManagerConfiguration\bin\Debug\ManagerConfiguration.pdb
+F:\Vs2015-Projects\Advance Tutorial Demo\RealApp\ManagerConfiguration\ManagerConfiguration\obj\Debug\ManagerConfiguration.csprojResolveAssemblyReference.cache
+F:\Vs2015-Projects\Advance Tutorial Demo\RealApp\ManagerConfiguration\ManagerConfiguration\obj\Debug\ManagerConfiguration.ConfigForm.resources
+F:\Vs2015-Projects\Advance Tutorial Demo\RealApp\ManagerConfiguration\ManagerConfiguration\obj\Debug\ManagerConfiguration.Properties.Resources.resources
+F:\Vs2015-Projects\Advance Tutorial Demo\RealApp\ManagerConfiguration\ManagerConfiguration\obj\Debug\ManagerConfiguration.csproj.GenerateResource.Cache
+F:\Vs2015-Projects\Advance Tutorial Demo\RealApp\ManagerConfiguration\ManagerConfiguration\obj\Debug\ManagerConfiguration.exe
+F:\Vs2015-Projects\Advance Tutorial Demo\RealApp\ManagerConfiguration\ManagerConfiguration\obj\Debug\ManagerConfiguration.pdb
+F:\Vs2015-Projects\Advance Tutorial Demo\RealApp\ManagerConfiguration\ManagerConfiguration\bin\Debug\ConfigPlugings.dll
+F:\Vs2015-Projects\Advance Tutorial Demo\RealApp\ManagerConfiguration\ManagerConfiguration\bin\Debug\ConfigPlugings.pdb

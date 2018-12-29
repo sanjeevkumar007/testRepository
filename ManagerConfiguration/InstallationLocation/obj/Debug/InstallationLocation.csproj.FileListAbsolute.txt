@@ -1,0 +1,10 @@
+F:\Vs2015-Projects\Advance Tutorial Demo\RealApp\ManagerConfiguration\InstallationLocation\bin\Debug\InstallationLocation.dll
+F:\Vs2015-Projects\Advance Tutorial Demo\RealApp\ManagerConfiguration\InstallationLocation\bin\Debug\InstallationLocation.pdb
+F:\Vs2015-Projects\Advance Tutorial Demo\RealApp\ManagerConfiguration\InstallationLocation\bin\Debug\ConfigPlugings.dll
+F:\Vs2015-Projects\Advance Tutorial Demo\RealApp\ManagerConfiguration\InstallationLocation\obj\Debug\InstallationLocation.LocationUserControl.resources
+F:\Vs2015-Projects\Advance Tutorial Demo\RealApp\ManagerConfiguration\InstallationLocation\obj\Debug\InstallationLocation.csproj.GenerateResource.Cache
+F:\Vs2015-Projects\Advance Tutorial Demo\RealApp\ManagerConfiguration\InstallationLocation\obj\Debug\InstallationLocation.dll
+F:\Vs2015-Projects\Advance Tutorial Demo\RealApp\ManagerConfiguration\InstallationLocation\obj\Debug\InstallationLocation.pdb
+F:\Vs2015-Projects\Advance Tutorial Demo\RealApp\ManagerConfiguration\InstallationLocation\bin\Debug\ManagerCommon.dll
+F:\Vs2015-Projects\Advance Tutorial Demo\RealApp\ManagerConfiguration\InstallationLocation\bin\Debug\ManagerConfigClasses.dll
+F:\Vs2015-Projects\Advance Tutorial Demo\RealApp\ManagerConfiguration\InstallationLocation\obj\Debug\InstallationLocation.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+F:\Vs2015-Projects\Advance Tutorial Demo\RealApp\ManagerConfiguration\ConfigPlugings\bin\Debug\ConfigPlugings.dll
+F:\Vs2015-Projects\Advance Tutorial Demo\RealApp\ManagerConfiguration\ConfigPlugings\bin\Debug\ConfigPlugings.pdb
+F:\Vs2015-Projects\Advance Tutorial Demo\RealApp\ManagerConfiguration\ConfigPlugings\obj\Debug\ConfigPlugings.dll
+F:\Vs2015-Projects\Advance Tutorial Demo\RealApp\ManagerConfiguration\ConfigPlugings\obj\Debug\ConfigPlugings.pdb
+F:\Vs2015-Projects\Advance Tutorial Demo\RealApp\ManagerConfiguration\ConfigPlugings\obj\Debug\ConfigPlugings.csprojResolveAssemblyReference.cache

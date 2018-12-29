@@ -1,0 +1,5 @@
+F:\Vs2015-Projects\Advance Tutorial Demo\RealApp\ManagerConfiguration\ManagerConfigClasses\bin\Debug\ManagerConfigClasses.dll
+F:\Vs2015-Projects\Advance Tutorial Demo\RealApp\ManagerConfiguration\ManagerConfigClasses\bin\Debug\ManagerConfigClasses.pdb
+F:\Vs2015-Projects\Advance Tutorial Demo\RealApp\ManagerConfiguration\ManagerConfigClasses\obj\Debug\ManagerConfigClasses.dll
+F:\Vs2015-Projects\Advance Tutorial Demo\RealApp\ManagerConfiguration\ManagerConfigClasses\obj\Debug\ManagerConfigClasses.pdb
+F:\Vs2015-Projects\Advance Tutorial Demo\RealApp\ManagerConfiguration\ManagerConfigClasses\obj\Debug\ManagerConfigClasses.csprojResolveAssemblyReference.cache

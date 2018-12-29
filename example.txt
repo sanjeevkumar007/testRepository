@@ -1,3 +1,0 @@
-This is the new file for testing purpose of git versioing tool
-
-this is new version of file
